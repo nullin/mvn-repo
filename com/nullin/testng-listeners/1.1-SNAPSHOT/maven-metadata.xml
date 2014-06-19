@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.nullin</groupId>
   <artifactId>testng-listeners</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140619.201641</timestamp>
+      <timestamp>20140619.202142</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140619201641</lastUpdated>
+    <lastUpdated>20140619202142</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20140619.201641-1</value>
-        <updated>20140619201641</updated>
+        <value>1.1-20140619.202142-1</value>
+        <updated>20140619202142</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140619.201641-1</value>
-        <updated>20140619201641</updated>
+        <value>1.1-20140619.202142-1</value>
+        <updated>20140619202142</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
