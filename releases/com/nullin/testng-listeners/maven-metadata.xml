@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.nullin</groupId>
+  <artifactId>testng-listeners</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20150302115227</lastUpdated>
+  </versioning>
+</metadata>
