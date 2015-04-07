@@ -4,8 +4,8 @@
   <artifactId>testrail-connector</artifactId>
   <versioning>
     <versions>
-      <version>1.5-SNAPSHOT</version>
+      <version>1.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150407190259</lastUpdated>
+    <lastUpdated>20150407233424</lastUpdated>
   </versioning>
 </metadata>
